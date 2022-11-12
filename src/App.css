@@ -1,9 +1,28 @@
 /* Add styling for your page here */
 
 .App {
-
+    background-color: #393f4b;
 }
 
 .BakeryItem {
+    background-color: #393f4b;
+    color: #fff;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
   
 }
+
+.body{
+
+}
+
+.page-title {
+    /* text-4xl font-medium */
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+
+    font-weight: 500;
+
+    font-family: 'Raleway', sans-serif;;
+  }
